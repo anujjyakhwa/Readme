@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Anuj Jakhwa
+# 👋 Hey there, I'm Anuj Jyakhwa
 
 🚀 **Computer Science Student @ University of North Texas (UNT)**  
 🎓 Passionate about **AI | Cybersecurity | Cloud | Networking**  
